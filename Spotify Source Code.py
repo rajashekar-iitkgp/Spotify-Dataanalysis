@@ -1,3 +1,4 @@
+#This is my first ever project in Data analysis. This is a Exploratory data analysis project guided by Simplify.
 
 import numpy as np
 import pandas as pd
